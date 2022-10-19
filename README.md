@@ -1,0 +1,1 @@
+# 06_Beispiel_Abstract_Class
